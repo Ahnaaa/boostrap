@@ -1,0 +1,195 @@
+body{
+        box-sizing: border-box;
+        margin: 0px;
+        font-family: 'Poppins', sans-serif;
+        background-color: #f8f9fa;
+
+}
+
+.Navbar{
+        color: #4b4646;
+}
+
+
+.btn-hero:hover{
+        text-decoration: underline;
+        transition: width 1s ease-in-out;
+}
+
+ .image {
+        width: 100%;
+        height: auto;
+      }
+    img{
+            object-fit: cover;
+
+    }
+.cart{
+        border-radius: 0px;
+}
+
+    .categories {
+        display: flex;
+        justify-content: center;
+        gap: 20px; /* space between items */
+        margin-bottom: 20px;
+      }
+      
+      .category-item {
+        cursor: pointer;
+        width: 200px; /* adjust the size as needed */
+        height: 100px; /* adjust the size as needed */
+        position: relative;
+        object-fit: cover;
+      }
+      
+      .category-item img{
+        width: 300px;
+        height: 100px;
+        object-fit: cover; /* ensures the image fills the container */
+        border-radius: 8px; /* optional, for rounded corners */
+      }
+      
+      .category-item.active {
+        border: 2px solid #007bff; /* highlight active image */
+      }
+      
+      .category-item:hover {
+        opacity: 0.8; /* hover effect */
+      }
+      
+      .category-item:focus {
+        outline: none; /* remove focus outline */
+      }
+       /* Categories Section */
+       .categories {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 2rem;
+        gap: 1rem;
+      }
+
+      .img-cate {
+        width: 100%;
+        height: 250px; /* Adjust height as needed */
+      }
+
+      .categories p {
+        margin-top: 10px;
+        font-size: 1rem;
+        font-weight: bold;
+      }
+
+      /* Navbar */
+      .navbar {
+        background: #fff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+  
+      .navbar-brand {
+        font-weight: bold;
+        color: #5a5af3;
+      }
+  
+      /* Hero Section */
+    
+  
+      .hero h1 {
+        font-size: 3rem;
+        font-weight: bold;
+      }
+  
+     
+      /* Product Cards */
+      .product-card {
+        border: none;
+        overflow: hidden;
+        transition: all 0.3s ease;
+      }
+      .product-card:hover {
+        transform: translateY(-5px);
+      }
+        
+        
+            /* Color of the links BEFORE scroll */
+      .navbar-scroll .nav-link,
+      .navbar-scroll .navbar-toggler-icon,
+      .navbar-scroll .navbar-brand {
+        color: #262626;
+      }
+      
+      /* Color of the navbar BEFORE scroll */
+      .navbar-scroll {
+        background-color: #efefef;
+      }
+      
+      /* Color of the navbar AFTER scroll */
+      .navbar-scrolled {
+        background-color: #fff;
+      }
+      
+      .navbar-brand {
+        font-size: unset;
+        height: 3.5rem;
+      }
+      
+      .menu ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+      .menu li{
+        display: inline-block;
+        margin: 0 15px;
+      }
+      .menu a{
+        font-size: 16px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #fff;
+        display: block;
+        position: relative;
+        padding: 4px 0;
+      }
+      .menu a::before{
+        content: "";
+        width: 100%;
+        height: 4px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        background: #fff;
+        transition: 0.5s transform ease;
+        transform: scale3d(0,1,1);
+        transform-origin: 0 50%;
+      }
+      .menu a:hover::before{
+        transform: scale3d(1,1,1);
+      }
+      .menu-1 a::before{
+        background: #E91E63;
+        transform-origin: 100% 50%;
+      }
+      .menu-1 a:hover::before{
+        transform-origin: 0 50%;
+      }
+      .menu-2 a::before{
+        background: #EC407A;
+      }
+      .menu-3 a::before{
+        transform-origin: 50% 50%;
+        background: #F06292;
+      }
+      .menu-4 a::before{
+        transform-origin: 100% 50%;
+        background: #EC407A;
+      }
+      .menu-5 a::before{
+        background: #E91E63;
+        transform-origin: 0 50%;
+      }
+      .menu-5 a:hover::before{
+        transform-origin: 100% 50%;
+  }
+    

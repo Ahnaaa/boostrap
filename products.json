@@ -1,0 +1,146 @@
+
+
+[
+        {
+                "id" : 1,
+                "title" : "Failble100 Wheat Performance Velvet Sofa",
+                "price" : 2499.00,
+                "category": "sofa",
+                "image" : "assets/img/pro-img-1.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+               , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+                      
+        },
+        {
+                "id" : 2,
+                "title" : "Nirone 2-Drawer Extendable Black Ebonized Oak",
+                "price" : 899.99,
+                "category" : "desk",
+                "image" : "assets/img/pro-img-2.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 3,
+                "title" : "Arc Bronze Brown Velvet Bench",
+                "price" : 1699.00,
+                "category" : "bench",    
+                "image" : "assets/img/pro-img-3.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 4,
+                "title" : "Panora Warm Grey Upholsterd and Black Metal",
+                "price" : 1399.00,
+                "category" : "bed",
+                "image" : "assets/img/pro-img-4.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 5,
+                "title" : "Ceva 103' Light Blue Performance Velvet Sofa",
+                "price" : 2499.00,
+                "category" : "sofa",
+                "image" : "assets/img/pro-img-5.jpg",
+                "description" : " I wanted Ceva to have interest from all angles,' says designer Ceci Thompson of the Melbourne-based design studio VUUE. Framed in kiln-dried hardwood for durability, the sofa's wide frame wraps around the long bench seat and back cushions in one continuous line for a low, loungy seat. Plush feather and down cushions ensure long-lasting comfort while softening the design's strong lines. Upholstered in an icy blue performance velvet for a pop of color. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+
+        },
+        {
+                "id" : 6,
+                "title" : "Stratford 65' Silver Blue Suede and Metal Bench",
+                "price" : 899.00,
+                "category" : "bench",    
+                "image" : "assets/img/pro-img-6.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 7,
+                "title" : "Ebony 3-Drawer Black Oak Desk",
+                "price" : 599.00,
+                "category" : "desk",    
+                "image" : "assets/img/pro-img-7.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 8,
+                "title" : "Cantar Warm Grey Velvet Upholstered Queen Bed",
+                "price" : 1799.00,
+                "category": "bed",
+                "image" : "assets/img/pro-img-8.jpg",
+                "description" : " Deep, generously proportioned sofa designed by Melbourne-based VUUE is sophisticated in a wheat performance velvet. The oversized profile is perfect for lounging with family and friends without sacrificing style. Performance velvet withstands spills and other stressors, yet retains the lushness of a high-end textile. CB2 exclusive. " 
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 9 ,
+                "title" : "Malea 100' Green Velvet Sofa",
+                "price" : 3799.00,
+                "category" : "sofa",
+                "image" : "assets/img/pro-img-11.jpg",
+                "description" : "The Malea sofa is the perfect balance of refined, modern style and inviting comfort. Featuring a frame hand-assembled in America from kiln-dried, precision-cut wood with reinforced joinery for durability, the sofa's slim track arms give the piece a sense of lightness. Rich green striated velvet woven by a mill operating for six generations in South Carolina offers plush texture, while a welt trim along the frame and cushions keeps the look neat. Packed with an ultra-comfy feather and down-blend, the deep cushions are key to the sofa's loungey appeal, while giving it just the right amount of support. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 10 ,
+                "title" : "Mardones 103' Camel Brown Velvet Sofa",
+                "price" : 1199.00,
+                "category" : "sofa",
+                "image" : "assets/img/pro-img-12.jpg",
+                "description" :"ow-slung sofa by Melbourne-based VUUE invites you to curl up into indulgent camel velvet. Delicately pleated back cushions nod to tradition, while the sofa's sculpted curves and sumptuous velvet upholstery take on a more modern aesthetic. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 11,
+                "title" : "Remoli Swirled Cream Resin Desk 55",
+                "price" : 1599.00,
+                "category" : "desk",
+                "image" : "assets/img/pro-img-13.jpg",
+                "description" :"Fluid swirls of cream and warm white give this sleek desk by Brett Beldock effortless grace and beauty. Inspired by a vintage lamp of French design, its architectural silhouette and rounded edges evoke an Art Deco moment. At first glance, this multifunctional piece looks as though it's carved from marble, yet its resin construction requires significantly less care—making it a fine choice for the home office and high-traffic entryways."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 12,
+                "title" : "Portofino Walnut Wood Desk by Gianfranco Frattini",
+                "price" : 1800.00,
+                "category" : "desk",
+                "image" : "assets/img/pro-img-14.jpg",
+                "description" : "Believed to be among Gianfranco Frattini's earliest designs, this well-proportioned desk was recreated from vintage black and white photographs. In staying true to its 1950s origins, our update retains the unique cutouts and spaces, with details such as a rubber-wrapped foot rest and solid wood drawer guides pulled directly from Frattini's found photograph. Satin black powdercoated legs and a champagne brass crossbar beautifully complement the natural beauty of the wood, which is certified sustainable by the Forest Stewardship Council ®. The desktop and shelves are made with richly grained walnut, with a black ebonized oak drawer that pulls out for dramatic contrast. Originally designed for an architect to accommodate rolls of drafting paper, the desk is well-suited for all modern professional pursuits. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 13,
+                "title" : "Curator Brown Leather Queen Bed",
+                "price" : 1799.00,
+                "category" : "bed",
+                "image" : "assets/img/pro-img-15.jpg",
+                "description" :"Sophisticated bed by Jannis Ellenberger feels like something you'd find in an incredibly chic turn-of-the-century safari camp or archaeology professor's townhome. Rich buffalo leather headboard and footboard wrap around a solid acacia wood frame with brass connection points. Adjustable straps on the back of the headboard allow you to keep it taut as the leather patinas and softens over time for a true heirloom feel. Learn about Jannis Ellenberger on our blog. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        },
+        {
+                "id" : 14,
+                "title" : "Nadi Wood and Cane Queen Bed",
+                "price" : 1299.00,
+                "category" : "bed",
+                "image" : "assets/img/pro-img-16.jpg",
+                "description" :"Organic materials and craftsmanship shine in this bed designed by Mermelada Estudio. Natural rattan is woven by hand into a geometric pattern on the headboard and framed in midtone wood. Learn about Mermelada Estudio on our blog. CB2 exclusive."
+                , "care": "Do not leave spills unattended. Do not use abrasive cleaner Vacuum and rotate cushion periodically.Blot spills immediately with a clean, absorbent white cloth.Protect from heat and liquids. Slight fading may occur in direct sunlight."
+
+        }
+
+]
